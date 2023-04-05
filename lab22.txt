@@ -1,1 +1,3 @@
-This is a file for Lab22 for Indiana University Multiuser Operating System
+This is a file for Lab22 for Indiana University Multiuser Operating Systems
+
+New Line added in bash using vi as stated in lab assignment. 
